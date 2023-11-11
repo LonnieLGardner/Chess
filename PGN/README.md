@@ -1,0 +1,2 @@
+This is a collection of Chess PGN files that I have transcribed from YouTube videos, Books, etc. They have all the pertinent information in the TAG's you might need including video URL etc. Hope you all like it and get some good analysis out of them. I know I have which is main reason I made them
+so just figured I'd share them for others. Mostly beginners though because that's my focus in helping out because I'm one myself.
